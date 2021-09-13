@@ -1,10 +1,11 @@
 const notes = [
-    "A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"
-    // "A", "C"
+    // "A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"
+    "A", "C"
 ]
 
 const strings = [
-    "1st", "2nd", "3rd", "4th", "5th", "6th"
+    // "1st", "2nd", "3rd", "4th", "5th", "6th"
+    "E", "A", "D", "G", "B", "e"
 ]
 
 const chords = [
